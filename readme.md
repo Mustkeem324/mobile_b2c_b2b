@@ -704,13 +704,13 @@ To transfer data in the fastest, most efficient, and secure way possible.
 
 # **Private Tunnel Server – Architecture & Implementation Documentation**
 
-![Image](https://www.baeldung.com/wp-content/uploads/sites/4/2022/10/vpn-architecture.png)
+<!-- ![Image](https://www.baeldung.com/wp-content/uploads/sites/4/2022/10/vpn-architecture.png)
 
 ![Image](https://docs.tenable.com/identity-exposure/SaaS/Content/Resources/Images/secure_relay_architecture.png)
 
 ![Image](https://www.paloaltonetworks.com/content/dam/pan/en_US/images/cyberpedia/how-vpn-tunneling.png?imwidth=480)
 
-![Image](https://serversideup.net/_ipx/f_webp/blog/getting-started-with-wireguard-vpn-important-concepts/Wireguard-Diagram-Server-1024x911.png)
+![Image](https://serversideup.net/_ipx/f_webp/blog/getting-started-with-wireguard-vpn-important-concepts/Wireguard-Diagram-Server-1024x911.png) -->
 
 ---
 ┌────────────┐        ┌──────────────────┐
