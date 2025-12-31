@@ -265,7 +265,7 @@ Payment Released
 
 **Total Estimated Duration:** ~60 Days
 
-## 12.2 Waterfall Phases & Timeline — Detailed Breakdown
+## 12.3 Waterfall Phases & Timeline — Detailed Breakdown
 
 ---
 
