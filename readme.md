@@ -712,7 +712,8 @@ To transfer data in the fastest, most efficient, and secure way possible.
 
 ![Image](https://serversideup.net/_ipx/f_webp/blog/getting-started-with-wireguard-vpn-important-concepts/Wireguard-Diagram-Server-1024x911.png) -->
 
----
+
+
 ┌────────────┐        ┌──────────────────┐
 │ Computer A │◄──────►│  Central Server  │
 └────────────┘        │ (Auth + Routing) │
@@ -725,10 +726,7 @@ To transfer data in the fastest, most efficient, and secure way possible.
 └────────────┘        │ Server (Relay)   │
                       └──────────────────┘
 
-  
-  
 
----
 
 ## 1. Overview
 
