@@ -264,10 +264,6 @@ Payment Released
 | 9     | Deployment                   | 3 Days   |
 
 **Total Estimated Duration:** ~60 Days
-Below is a **clear, expanded explanation** of each **Waterfall phase**, **what exact work happens**, and **what type of engineers are required**.
-This is written so **management + developers** both understand it.
-
----
 
 ## 12.2 Waterfall Phases & Timeline — Detailed Breakdown
 
@@ -498,22 +494,6 @@ This is written so **management + developers** both understand it.
 | 8     | QA, Security Engineers        |
 | 9     | DevOps                        |
 
----
-
-## 🎤 One-Line Explanation for Management
-
-> “Each phase focuses on a specific layer of the system and requires different engineering skill sets, moving from planning to design, development, integration, testing, and deployment in a controlled Waterfall approach.”
-
----
-
-If you want, I can next:
-
-* Convert this into **Jira task hierarchy**
-* Map **engineers to each sprint**
-* Suggest **team size & roles**
-* Help you explain **why this many days are needed**
-
-Just tell me 👍
 
 ---
 
